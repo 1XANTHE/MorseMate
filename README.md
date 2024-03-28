@@ -17,3 +17,5 @@ It provides an intuitive user interface where users can input text or Morse code
 MorseMate has the following dependencies:
 - Python (version 3.x)
 - Tkinter (for the graphical user interface)
+
+#Thanks :D
